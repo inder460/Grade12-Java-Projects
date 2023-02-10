@@ -1,0 +1,30 @@
+## HOW TO USE BANK ACCOUNT PROGRAM ## 
+
+----------LOGIN USER----------------
+1. There are two users that you can login from 
+	a) user one information (Account ID/name: "Bilal", Account Password: "Pro Gamer") 
+	b) user two information (Account ID/name: "User", Account password: "Password")
+----------USING ACCOUNT-------------
+1. create a user profile by pressing the button that says "Click here to set enter personal information" 
+	a) enter the name, address, and phone number 
+2. set the initial amount for the savings and GIC account by clicking the button that says "Click here to sets savings and GIC balances" 
+	a) also enter the days of maturity for the GIC account 
+3. to view personal information press "click here to view personal information" 
+4. to deposit press "Deposit" button
+	a) you will be prompted for savings or GIC account, for savings type "S" for GIC type "G" 
+	b) then deposit the amount 
+5. to withdraw press "Withdraw" button
+	a) you will be prompted for savings or GIC account, for savings type "S" for GIC type "G"
+	b) withdraw the amount 
+6. Once complete press "Logout" button to logout then exit the system :) 
+
+---------LOGIN EMPLOYEE------------
+1. There is a created employee you can login from 
+	a) User information (Account ID/Name: "Campos", Account password: "Tony")
+
+---------USING ACCOUNT-------------
+1. Enter the account name of the user you wish to view the transactions for or save the files for 
+	a) user names can be either "Bilal" or "User" 
+2. press the "View Account" Button to view the information of the user 
+3. press the "Save file of user" button to save the file of the user into a file that is prompted for 
+4. press the "Read file of user" button to read a file of a user that is already set in the JOptionPane

@@ -1,0 +1,3 @@
+3
+The cook worked 12 hours in the darkened kitchen!
+EOF

@@ -1,0 +1,12 @@
+There are 2 e's in this phrase at the locations 1 21 
+He was waiting for the rain to stop
+
+There are 4 e's in this phrase at the locations 2 8 11 17 
+She was Eager to eat
+
+There are 2 e's in this phrase at the locations 20 26 
+Monday was a cool, wet afternoon
+
+There are 6 e's in this phrase at the locations 7 10 11 16 17 33 
+You have been sleeping for a while
+

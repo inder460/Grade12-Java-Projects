@@ -1,0 +1,6 @@
+Red Team has a score of: 4356
+Droid 1 has score of: 2200
+Droid 2 has score of: 2156
+Blue Team has a score of: 4040
+Droid 3 has score of: 2063
+Droid 4 has score of: 1977
